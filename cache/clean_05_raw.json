@@ -1,0 +1,17 @@
+{
+  "sample_id": "clean_05",
+  "config": "raw",
+  "extraction": {
+    "full_name": "INDRAJIT KRISHNA",
+    "father_name": "EESHA TOOR",
+    "pan_number": "TGPLE8606P",
+    "date_of_birth": "11/02/1985",
+    "confidence": 1.0,
+    "image_issues": [],
+    "unreadable_fields": []
+  },
+  "error": null,
+  "latency_s": 2.554,
+  "steps_applied": [],
+  "raw_response": "{\n  \"full_name\": \"INDRAJIT KRISHNA\",\n  \"father_name\": \"EESHA TOOR\",\n  \"pan_number\": \"TGPLE8606P\",\n  \"date_of_birth\": \"11/02/1985\",\n  \"confidence\": 1.0,\n  \"image_issues\": [],\n  \"unreadable_fields\": []\n}"
+}

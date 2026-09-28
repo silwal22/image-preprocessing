@@ -1,0 +1,19 @@
+{
+  "sample_id": "dark_03",
+  "config": "rotate",
+  "extraction": {
+    "full_name": "JANYA PAL",
+    "father_name": "SANAYA SIDHU",
+    "pan_number": "WQAYS7812I",
+    "date_of_birth": "02/07/1989",
+    "confidence": 0.98,
+    "image_issues": [],
+    "unreadable_fields": []
+  },
+  "error": null,
+  "latency_s": 2.437,
+  "steps_applied": [
+    "rotate"
+  ],
+  "raw_response": "{\n  \"full_name\": \"JANYA PAL\",\n  \"father_name\": \"SANAYA SIDHU\",\n  \"pan_number\": \"WQAYS7812I\",\n  \"date_of_birth\": \"02/07/1989\",\n  \"confidence\": 0.98,\n  \"image_issues\": [],\n  \"unreadable_fields\": []\n}"
+}

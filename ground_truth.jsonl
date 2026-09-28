@@ -1,0 +1,5 @@
+{"sample_id": "clean_01", "image_file": "clean_01.jpg", "image_quality": "clean", "expected": {"full_name": "OSCAR NAYAR", "father_name": "SAANVI KARA", "pan_number": "TMHJB6257P", "date_of_birth": "10/02/2000"}}
+{"sample_id": "rotated_02", "image_file": "rotated_02.jpg", "image_quality": "rotated", "expected": {"full_name": "HEMANGINI DHINGRA", "father_name": "WARJAS MERCHANT", "pan_number": "JUUNG7502R", "date_of_birth": "11/10/1998"}}
+{"sample_id": "dark_03", "image_file": "dark_03.jpg", "image_quality": "dark", "expected": {"full_name": "JANYA PAL", "father_name": "SANAYA SIDHU", "pan_number": "WQAYS7812I", "date_of_birth": "02/07/1989"}}
+{"sample_id": "blurry_04", "image_file": "blurry_04.jpg", "image_quality": "blurry", "expected": {"full_name": "BALJIWAN BATRA", "father_name": "NAKUL BHAVSAR", "pan_number": "DBESL2117Q", "date_of_birth": "19/11/1989"}}
+{"sample_id": "clean_05", "image_file": "clean_05.jpg", "image_quality": "clean", "expected": {"full_name": "INDRAJIT KRISHNA", "father_name": "EESHA TOOR", "pan_number": "TGPLE8606P", "date_of_birth": "11/02/1985"}}

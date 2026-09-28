@@ -1,0 +1,21 @@
+{
+  "sample_id": "rotated_02",
+  "config": "rotate+brightness",
+  "extraction": {
+    "full_name": "HEMANGINI DHINGRA",
+    "father_name": "WARJAS MERCHANT",
+    "pan_number": "JUUNG7502R",
+    "date_of_birth": "11/10/1998",
+    "confidence": 0.95,
+    "image_issues": [
+      "rotated"
+    ],
+    "unreadable_fields": []
+  },
+  "error": null,
+  "latency_s": 7.496,
+  "steps_applied": [
+    "rotate"
+  ],
+  "raw_response": "{\n  \"full_name\": \"HEMANGINI DHINGRA\",\n  \"father_name\": \"WARJAS MERCHANT\",\n  \"pan_number\": \"JUUNG7502R\",\n  \"date_of_birth\": \"11/10/1998\",\n  \"confidence\": 0.95,\n  \"image_issues\": [\n    \"rotated\"\n  ],\n  \"unreadable_fields\": []\n}"
+}

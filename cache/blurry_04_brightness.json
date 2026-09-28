@@ -1,0 +1,19 @@
+{
+  "sample_id": "blurry_04",
+  "config": "brightness",
+  "extraction": {
+    "full_name": "BALWINDER SINGH",
+    "father_name": "MANOJ BHASIN",
+    "pan_number": "DBDSL2117Q",
+    "date_of_birth": "15/11/1988",
+    "confidence": 0.85,
+    "image_issues": [
+      "blurry"
+    ],
+    "unreadable_fields": []
+  },
+  "error": null,
+  "latency_s": 2.638,
+  "steps_applied": [],
+  "raw_response": "{\n  \"full_name\": \"BALWINDER SINGH\",\n  \"father_name\": \"MANOJ BHASIN\",\n  \"pan_number\": \"DBDSL2117Q\",\n  \"date_of_birth\": \"15/11/1988\",\n  \"confidence\": 0.85,\n  \"image_issues\": [\n    \"blurry\"\n  ],\n  \"unreadable_fields\": []\n}"
+}

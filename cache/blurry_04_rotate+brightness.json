@@ -1,0 +1,21 @@
+{
+  "sample_id": "blurry_04",
+  "config": "rotate+brightness",
+  "extraction": {
+    "full_name": "BALKRISHNA",
+    "father_name": "MANOJ BHAVSAR",
+    "pan_number": "DBKSL1111Q",
+    "date_of_birth": "15/11/1988",
+    "confidence": 0.85,
+    "image_issues": [
+      "blurry"
+    ],
+    "unreadable_fields": []
+  },
+  "error": null,
+  "latency_s": 3.531,
+  "steps_applied": [
+    "rotate"
+  ],
+  "raw_response": "{\n  \"full_name\": \"BALKRISHNA\",\n  \"father_name\": \"MANOJ BHAVSAR\",\n  \"pan_number\": \"DBKSL1111Q\",\n  \"date_of_birth\": \"15/11/1988\",\n  \"confidence\": 0.85,\n  \"image_issues\": [\n    \"blurry\"\n  ],\n  \"unreadable_fields\": []\n}"
+}
